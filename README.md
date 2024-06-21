@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![image](https://github.com/dev188007/Solana-Sol-Balance-Frontend/assets/165474780/29f3a48c-250a-4f62-8d8d-cc2159781a06)
+
+
 ## Getting Started
 
 First, run the development server:
